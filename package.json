@@ -1,5 +1,5 @@
 {
-  "name": "custom-html",
+  "name": "gitbook-plugin-custom-html",
   "version": "1.0.0",
   "description": "gitbook plugin",
   "main": "index.js",
