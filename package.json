@@ -1,16 +1,22 @@
 {
   "name": "gitbook-plugin-custom-html",
-  "version": "1.0.0",
-  "description": "gitbook plugin",
+  "version": "0.0.1",
+  "description": "custom include js script and css style for gitbook",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yuhongda0315/gitbook-plugin-custom-html"
   },
   "keywords": [
-    "gitook",
-    "nav",
-    "top"
+    "custom",
+  "custom-js-css",
+    "gitbook",
+    "plugin"
   ],
   "author": "yuhongda0315@163.com",
-  "license": "MIT"
+  "license": "MIT",
+  "engines": {
+    "gitbook": ">2.x.x"
+  }
 }
