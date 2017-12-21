@@ -1,0 +1,16 @@
+{
+  "name": "custom-html",
+  "version": "1.0.0",
+  "description": "gitbook plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gitook",
+    "nav",
+    "top"
+  ],
+  "author": "yuhongda0315@163.com",
+  "license": "MIT"
+}
