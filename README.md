@@ -11,7 +11,7 @@
 
 ##### 使用示例：
 
-`book.js` 中增加一下配置：
+`book.json` 中增加一下配置：
 
 ```json
 {
@@ -19,9 +19,7 @@
 	"plugins": ["custom-html"],
 	"pluginsConfig": {
 	    "customHTML": {
-	    	// 引入自定义 js 
 	    	"js": "js/my.js",
-	    	// 默认： _book
 	    	"toURL": "../../mydir"
 	    }
 	}
